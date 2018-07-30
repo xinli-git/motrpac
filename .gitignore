@@ -2,6 +2,17 @@ bcl
 bcl2
 fastq/output
 data_space
+<<<<<<< HEAD
+bcl2
+fastq/output
+data_space
+bcl
+=======
+bcl
+bcl2
+fastq/output
+data_space
+>>>>>>> 93c56e4d432a6a9fbf02e511cbd75c4c140e38ab
 bcl2
 fastq/output
 data_space
