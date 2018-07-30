@@ -7,7 +7,7 @@
 # git filter-branch --index-filter 'git rm --cached --ignore-unmatch pivus/gcta/nohup.out' -f
 
 git init
-find . -type l | sed -e s'/^\.\///g' > .gitignore
+# find . -type l | sed -e s'/^\.\///g' > .gitignore
 git pull --all
 git add --all
 git commit -am "`date`"
