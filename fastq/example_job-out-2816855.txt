@@ -1,0 +1,1 @@
+/srv/gs1/software/bcl2fastq2/2.15.0.4/bcl2fastq --runfolder-dir /home/xli6/projects/motrpac/bcl2 --output-dir /home/xli6/projects/motrpac/fastq/output --minimum-trimmed-read-length 50 --stats-dir ./stats --reports-dir ./reports
