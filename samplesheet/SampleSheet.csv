@@ -1,0 +1,27 @@
+[Header],,,
+IEMFileVersion,4,,
+Date,3/17/18,,
+Workflow,GenerateFASTQ,,
+Application,NextSeq FASTQ Only,,
+Assay,Custom,,
+Description,,,
+Chemistry,Default,,
+,,,
+[Reads],,,
+75,,,
+75,,,
+,,,
+[Settings],,,
+Adapter,AATGATACGGCGACCACCGAGATCTACAC ,,
+AdapterRead2,CAAGCAGAAGACGGCATACGAGAT ,,
+,,,
+[Data],,,
+Sample_ID,Sample_Name,index,index2
+RD159,PAX2 Thaw 1x,AATCCAGC,TAGGATGC
+RD160,PAX3 Thaw 1x,CGTCTAAC,ACTCGTTG
+RD161,PAX2 Thaw 2x,AACTCGGA,GTCTTGCA
+RD162,PAX3 Thaw 2x,GTCGAGAA,GCTGTAAG
+RD163,Rat Muscle,CTCCTAGT,AGATGAGG
+RD164,Rat Liver,ACCATCCT,GTTCATGG
+RD165,Rat White Adipose1,CGTCCATT,AGGAGGAA
+RD166,Rat White Adipose2,AACTTGCC,GAAGTTGG
