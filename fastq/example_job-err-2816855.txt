@@ -585,3 +585,555 @@
 2018-07-30 15:07:17 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L001/0164.bcl.bgzf' with 67155853 clusters
 2018-07-30 15:07:17 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L001/0165.bcl.bgzf' with 67155853 clusters
 2018-07-30 15:07:17 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L001/0166.bcl.bgzf' with 67155853 clusters
+2018-07-30 15:44:04 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/Undetermined_S0_L002_R1_001.fastq.gz
+2018-07-30 15:44:04 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/Undetermined_S0_L002_R2_001.fastq.gz
+2018-07-30 15:44:04 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/PAX2-Thaw-1x_S1_L002_R1_001.fastq.gz
+2018-07-30 15:44:04 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/PAX2-Thaw-1x_S1_L002_R2_001.fastq.gz
+2018-07-30 15:44:04 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/PAX3-Thaw-1x_S2_L002_R1_001.fastq.gz
+2018-07-30 15:44:04 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/PAX3-Thaw-1x_S2_L002_R2_001.fastq.gz
+2018-07-30 15:44:04 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/PAX2-Thaw-2x_S3_L002_R1_001.fastq.gz
+2018-07-30 15:44:04 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/PAX2-Thaw-2x_S3_L002_R2_001.fastq.gz
+2018-07-30 15:44:04 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/PAX3-Thaw-2x_S4_L002_R1_001.fastq.gz
+2018-07-30 15:44:04 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/PAX3-Thaw-2x_S4_L002_R2_001.fastq.gz
+2018-07-30 15:44:04 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/Rat-Muscle_S5_L002_R1_001.fastq.gz
+2018-07-30 15:44:04 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/Rat-Muscle_S5_L002_R2_001.fastq.gz
+2018-07-30 15:44:04 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/Rat-Liver_S6_L002_R1_001.fastq.gz
+2018-07-30 15:44:04 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/Rat-Liver_S6_L002_R2_001.fastq.gz
+2018-07-30 15:44:04 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/Rat-White-Adipose1_S7_L002_R1_001.fastq.gz
+2018-07-30 15:44:04 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/Rat-White-Adipose1_S7_L002_R2_001.fastq.gz
+2018-07-30 15:44:04 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/Rat-White-Adipose2_S8_L002_R1_001.fastq.gz
+2018-07-30 15:44:04 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/Rat-White-Adipose2_S8_L002_R2_001.fastq.gz
+2018-07-30 15:44:04 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0003.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:04 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0002.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:04 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0001.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:04 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0004.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:04 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0007.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:04 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0008.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:04 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0006.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:04 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0005.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:04 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0009.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:04 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0012.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:04 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0013.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:04 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0010.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:04 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0014.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:04 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0011.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:04 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0015.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:04 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0016.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:04 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0017.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:04 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0018.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:04 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0022.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:04 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0023.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:04 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0021.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:04 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0020.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:04 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0019.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:04 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0024.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:04 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0025.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:04 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0026.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:04 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0027.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:04 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0028.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:04 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0029.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:04 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0030.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0031.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0034.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0036.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0032.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0033.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0037.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0035.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0038.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0039.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0040.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0041.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0042.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0043.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0044.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0045.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0046.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0047.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0048.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0051.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0050.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0049.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0052.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0054.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0053.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0055.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0056.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0057.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0058.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0059.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0061.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0060.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0062.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0064.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0063.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0065.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0066.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0068.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0070.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0067.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0071.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0069.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0072.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0073.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0074.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0075.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0076.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0077.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0078.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0080.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0079.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0082.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0081.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:05 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0083.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0084.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0085.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0086.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0087.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0089.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0088.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0091.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0092.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0093.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0094.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0090.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0096.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0095.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0097.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0098.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0099.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0100.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0101.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0102.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0103.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0105.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0107.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0106.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0108.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0109.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0110.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0104.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0111.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0112.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0115.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0113.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0116.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0114.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0117.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0119.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0118.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0120.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0121.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0123.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0122.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0124.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0125.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0127.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0126.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0128.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0129.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0133.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0134.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0131.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0130.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0132.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:06 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0135.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:07 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0136.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:07 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0140.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:07 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0137.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:07 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0138.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:07 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0139.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:07 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0142.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:07 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0141.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:07 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0143.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:07 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0145.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:07 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0144.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:07 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0146.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:07 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0147.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:07 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0148.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:07 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0149.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:07 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0151.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:07 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0153.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:07 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0150.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:07 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0152.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:07 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0154.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:07 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0155.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:07 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0156.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:07 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0157.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:07 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0158.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:07 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0161.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:07 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0163.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:07 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0159.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:07 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0160.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:07 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0162.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:07 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0164.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:07 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0166.bcl.bgzf' with 68071309 clusters
+2018-07-30 15:44:07 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L002/0165.bcl.bgzf' with 68071309 clusters
+2018-07-30 16:11:32 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/Undetermined_S0_L003_R1_001.fastq.gz
+2018-07-30 16:11:32 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/Undetermined_S0_L003_R2_001.fastq.gz
+2018-07-30 16:11:32 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/PAX2-Thaw-1x_S1_L003_R1_001.fastq.gz
+2018-07-30 16:11:32 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/PAX2-Thaw-1x_S1_L003_R2_001.fastq.gz
+2018-07-30 16:11:32 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/PAX3-Thaw-1x_S2_L003_R1_001.fastq.gz
+2018-07-30 16:11:32 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/PAX3-Thaw-1x_S2_L003_R2_001.fastq.gz
+2018-07-30 16:11:32 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/PAX2-Thaw-2x_S3_L003_R1_001.fastq.gz
+2018-07-30 16:11:32 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/PAX2-Thaw-2x_S3_L003_R2_001.fastq.gz
+2018-07-30 16:11:32 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/PAX3-Thaw-2x_S4_L003_R1_001.fastq.gz
+2018-07-30 16:11:32 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/PAX3-Thaw-2x_S4_L003_R2_001.fastq.gz
+2018-07-30 16:11:32 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/Rat-Muscle_S5_L003_R1_001.fastq.gz
+2018-07-30 16:11:32 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/Rat-Muscle_S5_L003_R2_001.fastq.gz
+2018-07-30 16:11:32 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/Rat-Liver_S6_L003_R1_001.fastq.gz
+2018-07-30 16:11:32 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/Rat-Liver_S6_L003_R2_001.fastq.gz
+2018-07-30 16:11:32 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/Rat-White-Adipose1_S7_L003_R1_001.fastq.gz
+2018-07-30 16:11:32 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/Rat-White-Adipose1_S7_L003_R2_001.fastq.gz
+2018-07-30 16:11:32 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/Rat-White-Adipose2_S8_L003_R1_001.fastq.gz
+2018-07-30 16:11:32 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/Rat-White-Adipose2_S8_L003_R2_001.fastq.gz
+2018-07-30 16:11:32 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0005.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0003.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0001.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0007.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0006.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0004.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0008.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0002.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0009.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0012.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0014.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0013.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0016.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0015.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0011.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0010.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0018.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0017.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0019.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0021.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0020.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0022.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0023.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0024.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0026.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0029.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0025.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0028.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0027.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0030.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0031.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0033.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0034.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0032.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0035.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0036.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0037.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0038.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0039.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0040.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0043.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0046.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0042.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0045.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0047.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0041.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0044.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0048.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0049.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0051.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0050.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0052.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0053.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0054.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0055.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:32 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0056.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0061.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0057.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0058.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0059.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0063.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0060.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0065.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0062.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0064.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0066.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0067.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0068.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0069.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0070.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0072.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0071.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0074.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0073.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0075.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0076.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0077.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0078.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0079.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0080.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0081.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0082.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0083.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0084.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0085.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0087.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0086.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0089.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0088.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0090.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0091.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0092.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0093.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0094.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0095.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0098.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0100.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0099.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0096.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0097.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0101.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0102.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0103.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0105.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0104.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0106.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0107.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0108.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0109.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0112.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0110.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0111.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0113.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0114.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0115.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0116.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0117.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0119.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0118.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0120.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0121.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0122.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0125.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0124.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0123.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0126.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0127.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0128.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0130.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0129.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0132.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0131.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0133.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0135.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:33 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0134.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:34 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0137.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:34 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0136.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:34 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0138.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:34 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0139.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:34 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0141.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:34 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0140.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:34 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0142.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:34 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0144.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:34 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0147.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:34 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0146.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:34 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0145.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:34 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0148.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:34 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0143.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:34 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0149.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:34 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0150.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:34 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0151.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:34 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0156.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:34 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0154.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:34 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0152.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:34 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0155.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:34 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0157.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:34 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0153.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:34 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0158.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:34 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0159.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:34 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0160.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:34 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0161.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:34 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0162.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:34 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0163.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:34 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0166.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:34 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0165.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:11:34 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L003/0164.bcl.bgzf' with 69128817 clusters
+2018-07-30 16:36:19 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/Undetermined_S0_L004_R1_001.fastq.gz
+2018-07-30 16:36:19 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/Undetermined_S0_L004_R2_001.fastq.gz
+2018-07-30 16:36:19 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/PAX2-Thaw-1x_S1_L004_R1_001.fastq.gz
+2018-07-30 16:36:19 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/PAX2-Thaw-1x_S1_L004_R2_001.fastq.gz
+2018-07-30 16:36:19 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/PAX3-Thaw-1x_S2_L004_R1_001.fastq.gz
+2018-07-30 16:36:19 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/PAX3-Thaw-1x_S2_L004_R2_001.fastq.gz
+2018-07-30 16:36:19 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/PAX2-Thaw-2x_S3_L004_R1_001.fastq.gz
+2018-07-30 16:36:19 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/PAX2-Thaw-2x_S3_L004_R2_001.fastq.gz
+2018-07-30 16:36:19 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/PAX3-Thaw-2x_S4_L004_R1_001.fastq.gz
+2018-07-30 16:36:19 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/PAX3-Thaw-2x_S4_L004_R2_001.fastq.gz
+2018-07-30 16:36:19 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/Rat-Muscle_S5_L004_R1_001.fastq.gz
+2018-07-30 16:36:19 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/Rat-Muscle_S5_L004_R2_001.fastq.gz
+2018-07-30 16:36:19 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/Rat-Liver_S6_L004_R1_001.fastq.gz
+2018-07-30 16:36:19 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/Rat-Liver_S6_L004_R2_001.fastq.gz
+2018-07-30 16:36:19 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/Rat-White-Adipose1_S7_L004_R1_001.fastq.gz
+2018-07-30 16:36:19 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/Rat-White-Adipose1_S7_L004_R2_001.fastq.gz
+2018-07-30 16:36:19 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/Rat-White-Adipose2_S8_L004_R1_001.fastq.gz
+2018-07-30 16:36:19 [2756880] INFO: Created FASTQ file '/home/xli6/projects/motrpac/fastq/output/Rat-White-Adipose2_S8_L004_R2_001.fastq.gz
+2018-07-30 16:36:19 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0001.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0006.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0004.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0002.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0005.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0008.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0007.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0003.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0010.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0009.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0011.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0012.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0013.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0015.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0014.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0016.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0017.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0018.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0019.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0020.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0024.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0022.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0023.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0025.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0021.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0026.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0027.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0029.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0028.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0030.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0031.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0032.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0033.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0036.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0034.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0037.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0035.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0038.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0039.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0041.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0040.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0043.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0042.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0044.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0045.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0046.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0047.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0048.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0049.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0050.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0052.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0053.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0051.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0054.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0055.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0057.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0056.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0058.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0059.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0060.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0061.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0062.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0063.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0064.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0065.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0066.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0068.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0067.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0069.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0071.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0070.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0073.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0072.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0074.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0075.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0076.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0077.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0079.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0078.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0081.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0080.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0083.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0084.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0082.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:19 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0085.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0086.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0087.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0088.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0089.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0090.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0091.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0092.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0094.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0093.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0095.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0097.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0098.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0096.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0099.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0100.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0102.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0101.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0103.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0106.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0107.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0104.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0105.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0108.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0109.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0110.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0111.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0112.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0115.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0114.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0117.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0116.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0113.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0119.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0118.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0120.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0121.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0122.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0123.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0125.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0124.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0127.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0129.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0126.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0128.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0130.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0131.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0132.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0136.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0135.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0138.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0134.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0133.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0137.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0139.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0140.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0142.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0141.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:20 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0143.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:21 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0144.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:21 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0145.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:21 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0146.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:21 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0147.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:21 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0150.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:21 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0148.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:21 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0152.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:21 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0149.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:21 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0151.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:21 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0154.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:21 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0155.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:21 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0153.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:21 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0156.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:21 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0157.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:21 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0158.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:21 [2b528b172700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0159.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:21 [2b528b775700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0160.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:21 [2b528a96e700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0163.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:21 [2b528ad70700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0166.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:21 [2b528b373700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0164.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:21 [2b528af71700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0161.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:21 [2b528ab6f700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0162.bcl.bgzf' with 69101511 clusters
+2018-07-30 16:36:21 [2b528b574700] INFO: Opened BCL file '/home/xli6/projects/motrpac/bcl2/Data/Intensities/BaseCalls/L004/0165.bcl.bgzf' with 69101511 clusters

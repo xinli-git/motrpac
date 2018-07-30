@@ -38,20 +38,20 @@ runName=""                # e.g. 180620_NS500418_0881_AH5NYJAFXY
 runLabel=""               # e.g. label I want to name my job
 runDirectory=/srv/gsfs0/projects/montgomery/kssmith/MOTRPAC/SEQ_RUN/  #path. change to link to my file name
 
-user=kssmith@stanford.edu
-user=xxli@stanford.edu
+# user=kssmith@stanford.edu
+# user=xxli@stanford.edu
 bcl2fastq=/srv/gs1/software/bcl2fastq2/2.15.0.4/bcl2fastq
-#bcl2fastq=/srv/gs1/software/bcl2fastq2/2.20.0/bin/bcl2fastq
+# bcl2fastq=/srv/gs1/software/bcl2fastq2/2.20.0/bin/bcl2fastq
 
-seqDir=$runDirectory/$runName
+# seqDir=$runDirectory/$runName
 seqDir=/home/xli6/projects/motrpac/bcl2
-outDir=/srv/gsfs0/projects/montgomery/kssmith/MOTRPAC/SEQ_RUN/FASTQ_RUN1/
+# outDir=/srv/gsfs0/projects/montgomery/kssmith/MOTRPAC/SEQ_RUN/FASTQ_RUN1/
 outDir=/home/xli6/projects/motrpac/fastq/output
-JOB=${runLabel}_bcl2fastq
-logOUT=$JOB.out
-logError=$JOB.error
-#rm -f $logOUT $logError
-#sampleSheet=/home/kssmith/gsfs0/MOTRPAC/SEQ_RUN/180620_NS500418_0881_AH5NYJAFXY/SampleSheet.csv
+# JOB=${runLabel}_bcl2fastq
+# logOUT=$JOB.out
+# logError=$JOB.error
+# rm -f $logOUT $logError
+# sampleSheet=/home/kssmith/gsfs0/MOTRPAC/SEQ_RUN/180620_NS500418_0881_AH5NYJAFXY/SampleSheet.csv
 
 # 32G to 12G
 qsubCMD=\
