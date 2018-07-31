@@ -1,7 +1,7 @@
 
 #!/bin/bash
 
-module load fastqc
+module load fastqc/0.11.7
 fastqc_cmd=~/tools/FastQC/fastqc
 fastqc_cmd=fastqc
 merged_fastq_dir=~/projects/motrpac/fastq/output/merged/
