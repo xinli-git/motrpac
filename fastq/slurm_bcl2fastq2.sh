@@ -31,6 +31,7 @@
 # Call any software you might need
 module load bcftools
 module load bedtools
+module load bcl2fastq2/2.15.0.4
 
 # Command here...
 
@@ -40,8 +41,9 @@ runDirectory=/srv/gsfs0/projects/montgomery/kssmith/MOTRPAC/SEQ_RUN/  #path. cha
 
 # user=kssmith@stanford.edu
 # user=xxli@stanford.edu
-bcl2fastq=/srv/gs1/software/bcl2fastq2/2.15.0.4/bcl2fastq
-# bcl2fastq=/srv/gs1/software/bcl2fastq2/2.20.0/bin/bcl2fastq
+bcl2fastq_cmd=/srv/gs1/software/bcl2fastq2/2.15.0.4/bcl2fastq
+# bcl2fastq_cmd=/srv/gs1/software/bcl2fastq2/2.20.0/bin/bcl2fastq
+bcl2fastq_cmd=bcl2fastq
 
 # seqDir=$runDirectory/$runName
 seqDir=/home/xli6/projects/motrpac/bcl2
@@ -55,7 +57,7 @@ outDir=/home/xli6/projects/motrpac/fastq/output
 
 # 32G to 12G
 qsubCMD=\
-"$bcl2fastq \
+"${bcl2fastq_cmd} \
     --runfolder-dir $seqDir \
     --output-dir $outDir \
     --minimum-trimmed-read-length 50 \
