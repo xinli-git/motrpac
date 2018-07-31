@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## motrpac rnaseq & atacseq
 
-You can use the [editor on GitHub](https://github.com/xinli-git/motrpac/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### fastqc
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+https://xinli-git.github.io/motrpac/fastqc_html/PAX2-Thaw-1x_S1_merge_R1_fastqc.html
+https://xinli-git.github.io/motrpac/fastqc_html/PAX2-Thaw-1x_S1_merge_R2_fastqc.html
+https://xinli-git.github.io/motrpac/fastqc_html/PAX2-Thaw-2x_S3_merge_R1_fastqc.html
+https://xinli-git.github.io/motrpac/fastqc_html/PAX2-Thaw-2x_S3_merge_R2_fastqc.html
+https://xinli-git.github.io/motrpac/fastqc_html/PAX3-Thaw-1x_S2_merge_R1_fastqc.html
+https://xinli-git.github.io/motrpac/fastqc_html/PAX3-Thaw-1x_S2_merge_R2_fastqc.html
+https://xinli-git.github.io/motrpac/fastqc_html/PAX3-Thaw-2x_S4_merge_R1_fastqc.html
+https://xinli-git.github.io/motrpac/fastqc_html/PAX3-Thaw-2x_S4_merge_R2_fastqc.html
+https://xinli-git.github.io/motrpac/fastqc_html/Rat-Liver_S6_merge_R1_fastqc.html
+https://xinli-git.github.io/motrpac/fastqc_html/Rat-Liver_S6_merge_R2_fastqc.html
+https://xinli-git.github.io/motrpac/fastqc_html/Rat-Muscle_S5_merge_R1_fastqc.html
+https://xinli-git.github.io/motrpac/fastqc_html/Rat-Muscle_S5_merge_R2_fastqc.html
+https://xinli-git.github.io/motrpac/fastqc_html/Rat-White-Adipose1_S7_merge_R1_fastqc.html
+https://xinli-git.github.io/motrpac/fastqc_html/Rat-White-Adipose1_S7_merge_R2_fastqc.html
+https://xinli-git.github.io/motrpac/fastqc_html/Rat-White-Adipose2_S8_merge_R1_fastqc.html
+https://xinli-git.github.io/motrpac/fastqc_html/Rat-White-Adipose2_S8_merge_R2_fastqc.html
+https://xinli-git.github.io/motrpac/fastqc_html/Undetermined_S0_merge_R1_fastqc.html
+https://xinli-git.github.io/motrpac/fastqc_html/Undetermined_S0_merge_R2_fastqc.html
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xinli-git/motrpac/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
