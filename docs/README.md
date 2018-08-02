@@ -21,4 +21,8 @@
 * https://xinli-git.github.io/motrpac/fastqc_html/Undetermined_S0_merge_R1_fastqc.html
 * https://xinli-git.github.io/motrpac/fastqc_html/Undetermined_S0_merge_R2_fastqc.html
 
+### multiqc
+
+* https://xinli-git.github.io/motrpac/multiqc_html/multiqc_report.html
+
 
