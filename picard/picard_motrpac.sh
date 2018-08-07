@@ -1,17 +1,44 @@
 #!/bin/bash
-#LF
-#1/Filter for MAPQ>30
-#2/Filter for PCR duplicates
 
+# The PI account to be charged
+#SBATCH --account=smontgom
+
+# Set estimated job time (day-hour:minute:seconds)
+#SBATCH --time=0-96:00:00
+
+# Set a name for the job, visible in `squeue`
+#SBATCH --job-name="exampe_job"
+
+# One node (you never usually will need to change this)
+#SBATCH --nodes=1
+
+# Specify partition
+#SBATCH --partition=batch
+
+# One task
+#SBATCH --ntasks=1
+
+# One CPU/core per task
+#SBATCH --cpus-per-task=1
+
+# Redirect output
+#SBATCH --output=example_job-out-%j.txt
+#SBATCH --error=example_job-err-%j.txt
+
+# RAM (how much memory do you need)
+#SBATCH --mem=32G
+
+# Call any software you might need
+module load picard-tools/2.8.0
 
 bam_file=$1
 mapq_sorted=$bam_file
 # mapq_suf=$(basename $bam_file .bam)_mapq30.bam
 # mapq_sorted=$(basename $mapq_suf .bam)_sorted
-dedup_suf=~/projects/kp1/picard/picard_output/$(basename $mapq_sorted .out.bam)_markdup.bam
-dedup_metrix=~/projects/kp1/picard/picard_output/$(basename $mapq_sorted .out.bam)_markdup_metrix.txt
+dedup_suf=~/projects/motrpac/picard/picard_output/$(basename $mapq_sorted .out.bam)_markdup.bam
+dedup_metrix=~/projects/motrpac/picard/picard_output/$(basename $mapq_sorted .out.bam)_markdup_metrix.txt
 # sortedbam=$(basename $dedup_suf .bam)_byread
-log_file=~/projects/kp1/picard/picard_output/$(basename $bam_file .out.bam)_filter_bam.log
+log_file=~/projects/motrpac/picard/picard_output/$(basename $bam_file .out.bam)_filter_bam.log
 
 date > $log_file
 

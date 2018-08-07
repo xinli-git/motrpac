@@ -1,16 +1,19 @@
 #!/bin/bash
 
 
-star_bam_output=~/projects/kp1/star/output_bam
-picard_script=~/projects/kp1/picard/picard_kp1.sh
+star_bam_output=~/projects/motrpac/star/output_bam
+picard_script=~/projects/motrpac/picard/picard_motrpac.sh
 
 # RD014.Aligned.sortedByCoord.out.bam
 # RD014.Aligned.toTranscriptome.out.bam
 
 
-ls -1 $star_bam_output/*.sortedByCoord.out.bam | awk '{match($1, /[/]*(RD[0-9]+.*)\.out\.bam/, arr); print arr[1]}' | sort | uniq | \
+ls -1 $star_bam_output/*.sortedByCoord.out.bam | awk '{match($1, /[/]*([^/]*)\.out\.bam/, arr); print arr[1]}' | sort | uniq | \
 awk -v bam_output=$star_bam_output 'BEGIN{OFS="\t"}{print bam_output"/"$1".out.bam"}' | \
-parallel --jobs 10 --col-sep "\t" "${picard_script} {1}"
+awk -v pspt=${picard_script} '{print "sbatch",pspt,$1}'
+# parallel --jobs 10 --col-sep "\t" "${picard_script} {1}"
+
+exit
 
 wait
 
