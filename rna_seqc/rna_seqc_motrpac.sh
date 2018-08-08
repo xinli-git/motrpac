@@ -38,8 +38,9 @@ gencode=temp_files/temp1.gtf
 rnaseqc_dir=~/tools/RNA-SeQC_1.1.9
 
 # must use java1.7, 1.8 will throw runtime error
+module load java/7u03
 java_1_7=/srv/persistent/bliu2/tools/jre1.7.0_80/bin/java
-
+java_1_7=java
 
 date>$log_file
 
