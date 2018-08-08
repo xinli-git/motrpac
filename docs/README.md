@@ -1,5 +1,9 @@
 ## motrpac rnaseq & atacseq
 
+### multiqc
+
+* https://xinli-git.github.io/motrpac/multiqc_html/multiqc_report.html
+
 ### fastqc
 
 * https://xinli-git.github.io/motrpac/fastqc_html/PAX2-Thaw-1x_S1_merge_R1_fastqc.html
@@ -21,8 +25,5 @@
 * https://xinli-git.github.io/motrpac/fastqc_html/Undetermined_S0_merge_R1_fastqc.html
 * https://xinli-git.github.io/motrpac/fastqc_html/Undetermined_S0_merge_R2_fastqc.html
 
-### multiqc
-
-* https://xinli-git.github.io/motrpac/multiqc_html/multiqc_report.html
 
 
