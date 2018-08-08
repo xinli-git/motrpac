@@ -17,5 +17,5 @@ exit
 
 wait
 
-awk 'BEGIN{OFS="\t"}$1 ~ /(LIBRARY)|(kp1)/{match(FILENAME, /(RD[0-9]+)\./, arr); print arr[1], $0}' picard_output/*.Aligned.sortedByCoord_markdup_metrix.txt | awk '{if(NR==1){sub(/RD[0-9]+/, "sample_id", $1); print $0}if(NR > 1 && $2 !~ /LIBRARY/){print $0}}' > kp1_metrix.txt
+awk 'BEGIN{OFS="\t"}$1 ~ /(LIBRARY)|(motrpac)/{match(FILENAME, /([^/]+)\./, arr); print arr[1], $0}' picard_output/*.Aligned.sortedByCoord_markdup_metrix.txt | awk '{if(NR==1){sub(/[^/]+/, "sample_id", $1); print $0}if(NR > 1 && $2 !~ /LIBRARY/){print $0}}' > kp1_metrix.txt
 

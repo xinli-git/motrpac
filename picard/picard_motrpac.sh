@@ -26,7 +26,7 @@
 #SBATCH --error=example_job-err-%j.txt
 
 # RAM (how much memory do you need)
-#SBATCH --mem=32G
+#SBATCH --mem=12G
 
 # Call any software you might need
 module load picard-tools/2.8.0
@@ -59,7 +59,7 @@ date > $log_file
 echo 'Mark PCR duplicates' >>$log_file
 echo $cmd >> $log_file
 
-cmd="java -Xmx8g -jar ~/tools/picard/picard.jar MarkDuplicates\
+cmd="java -Xmx8g -jar $PICARD/picard.jar MarkDuplicates\
 	INPUT=$mapq_sorted \
 	OUTPUT=$dedup_suf\
 	CREATE_INDEX=true \
