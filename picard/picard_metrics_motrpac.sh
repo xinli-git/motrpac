@@ -39,8 +39,9 @@ dedup_suf=~/projects/motrpac/picard/picard_output/$(basename $mapq_sorted .out.b
 dedup_metrix=~/projects/motrpac/picard/picard_output/$(basename $mapq_sorted .out.bam)_markdup_metrix.txt
 # sortedbam=$(basename $dedup_suf .bam)_byread
 log_file=~/projects/motrpac/picard/picard_output/$(basename $bam_file .out.bam)_filter_bam.log
-metrics_suf=~/projects/motrpac/picard/picard_output/$(basename $mapq_sorted .out.bam)_multiple_metrics.txt
-refgenome=$2
+multiple_metrics=~/projects/motrpac/picard/picard_output/$(basename $mapq_sorted .out.bam)_multiple_metrics
+ref_genome=$2
+refFlat=$3
 
 date > $log_file
 
@@ -59,12 +60,32 @@ date > $log_file
 # rm $mapq_suf
 
 echo 'Mulitple Metrics' >>$log_file
-echo $cmd >> $log_file
 
-cmd="java -Xmx8g -jar $PICARD/picard.jar CollectMultipleMetrics \
-	INPUT=$mapq_sorted \
-	OUTPUT=${metrics_suf} \
-	R=${refgenome}"
+cmd="java -Xmx8g -jar $PICARD/picard.jar CollectRnaSeqMetrics\
+        INPUT=$mapq_sorted \
+        OUTPUT=${multiple_metrics}.RnaSeqMetrics \
+        R=${ref_genome} \
+        REF_FLAT=${refFlat} \
+        STRAND_SPECIFICITY=SECOND_READ_TRANSCRIPTION_STRAND"
+
+echo $cmd
+
+# eval not necessary here, will create one more level of expansion e.g. cmd=ls;tmp=cmd;eval \$${tmp} 
+eval $cmd >>$log_file 2>&1
+
+
+cmd="java -Xmx8g -jar $PICARD/picard.jar CollectMultipleMetrics\
+        INPUT=$mapq_sorted \
+        OUTPUT=${multiple_metrics} \
+        R=${ref_genome} \
+        PROGRAM=CollectAlignmentSummaryMetrics \
+        PROGRAM=CollectInsertSizeMetrics \
+        PROGRAM=QualityScoreDistribution \
+        PROGRAM=MeanQualityByCycle \
+        PROGRAM=CollectBaseDistributionByCycle \
+        PROGRAM=CollectGcBiasMetrics \
+        PROGRAM=CollectSequencingArtifactMetrics \
+        PROGRAM=CollectQualityYieldMetrics"
 
 echo $cmd
 

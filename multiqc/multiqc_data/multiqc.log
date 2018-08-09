@@ -1,183 +1,205 @@
-[2018-08-08 14:47:44,268] multiqc                                            [DEBUG  ]  No MultiQC config found: /scg/apps/legacy/multiqc/1.5/lib/python2.7/site-packages/multiqc-1.5-py2.7.egg/multiqc_config.yaml
-[2018-08-08 14:47:44,269] multiqc                                            [DEBUG  ]  No MultiQC config found: /home/xli6/.multiqc_config.yaml
-[2018-08-08 14:47:44,269] multiqc                                            [DEBUG  ]  No MultiQC config found: multiqc_config.yaml
-[2018-08-08 14:47:44,269] multiqc                                            [DEBUG  ]  Command used: /srv/gsfs0/software/multiqc/1.5/bin/multiqc ../fastqc/output ../star/output_bam ../rsem/rsem_output ../picard/picard_output
-[2018-08-08 14:47:44,883] multiqc                                            [WARNING]  MultiQC Version v1.6 now available!
-[2018-08-08 14:47:44,883] multiqc                                            [INFO   ]  This is MultiQC v1.5
-[2018-08-08 14:47:44,883] multiqc                                            [DEBUG  ]  Command     : /srv/gsfs0/software/multiqc/1.5/bin/multiqc ../fastqc/output ../star/output_bam ../rsem/rsem_output ../picard/picard_output
-[2018-08-08 14:47:44,883] multiqc                                            [DEBUG  ]  Working dir : /home/xli6/projects/motrpac/multiqc
-[2018-08-08 14:47:44,883] multiqc                                            [INFO   ]  Template    : default
-[2018-08-08 14:47:44,884] multiqc                                            [INFO   ]  Searching '../fastqc/output'
-[2018-08-08 14:47:44,884] multiqc                                            [INFO   ]  Searching '../star/output_bam'
-[2018-08-08 14:47:44,884] multiqc                                            [INFO   ]  Searching '../rsem/rsem_output'
-[2018-08-08 14:47:44,884] multiqc                                            [INFO   ]  Searching '../picard/picard_output'
-[2018-08-08 14:47:44,885] multiqc                                            [DEBUG  ]  Analysing modules: custom_content, conpair, peddy, methylQA, qualimap, preseq, quast, qorts, rna_seqc, rsem, rseqc, busco, goleft_indexcov, disambiguate, supernova, deeptools, sargasso, verifybamid, homer, macs2, theta2, snpeff, gatk, htseq, bcftools, featureCounts, dedup, picard, prokka, samblaster, samtools, bamtools, jellyfish, vcftools, bbmap, bismark, hicexplorer, hicup, salmon, kallisto, slamdunk, star, hisat2, tophat, bowtie2, bowtie1, leehom, adapterRemoval, clipandmerge, cutadapt, flexbar, trimmomatic, skewer, sortmerna, biobloomtools, fastq_screen, afterqc, fastqc, clusterflow, bcl2fastq, interop
-[2018-08-08 14:47:44,885] multiqc                                            [DEBUG  ]  Using temporary directory for creating report: /tmp/tmpKi0iMc
-[2018-08-08 14:47:45,564] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-1x_S1_merge_R2_fastqc.html
-[2018-08-08 14:47:45,587] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-1x_S2_merge_R2_fastqc.html
-[2018-08-08 14:47:45,877] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose1_S7_merge_R2_fastqc.html
-[2018-08-08 14:47:45,877] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-2x_S3_merge_R2_fastqc.html
-[2018-08-08 14:47:45,878] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose2_S8_merge_R2_fastqc.html
-[2018-08-08 14:47:45,879] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-2x_S4_merge_R2_fastqc.html
-[2018-08-08 14:47:45,880] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-2x_S3_merge_R1_fastqc.html
-[2018-08-08 14:47:46,284] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-1x_S1_merge_R1_fastqc.html
-[2018-08-08 14:47:46,695] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Undetermined_S0_merge_R1_fastqc.html
-[2018-08-08 14:47:46,695] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-2x_S4_merge_R1_fastqc.html
-[2018-08-08 14:47:47,124] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Liver_S6_merge_R1_fastqc.html
-[2018-08-08 14:47:47,702] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose2_S8_merge_R1_fastqc.html
-[2018-08-08 14:47:47,874] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Liver_S6_merge_R2_fastqc.html
-[2018-08-08 14:47:48,045] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-1x_S2_merge_R1_fastqc.html
-[2018-08-08 14:47:48,046] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Muscle_S5_merge_R1_fastqc.html
-[2018-08-08 14:47:48,048] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Muscle_S5_merge_R2_fastqc.html
-[2018-08-08 14:47:48,049] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Undetermined_S0_merge_R2_fastqc.html
-[2018-08-08 14:47:48,050] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose1_S7_merge_R1_fastqc.html
-[2018-08-08 14:47:48,215] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-2x_S3.Aligned.toTranscriptome.out.bam
-[2018-08-08 14:47:48,827] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose1_S7.Aligned.sortedByCoord.out.bam
-[2018-08-08 14:48:14,972] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-2x_S3.Aligned.sortedByCoord.out.bam
-[2018-08-08 14:48:14,972] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-2x_S4.Aligned.sortedByCoord.out.bam
-[2018-08-08 14:48:14,972] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose1_S7.Aligned.toTranscriptome.out.bam
-[2018-08-08 14:48:17,582] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-2x_S4.Chimeric.out.sam
-[2018-08-08 14:48:17,829] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Muscle_S5.Aligned.sortedByCoord.out.bam
-[2018-08-08 14:48:20,542] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-1x_S1.Aligned.sortedByCoord.out.bam
-[2018-08-08 14:48:38,567] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Muscle_S5.Aligned.toTranscriptome.out.bam
-[2018-08-08 14:48:38,567] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Muscle_S5.Chimeric.out.sam
-[2018-08-08 14:48:38,568] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose1_S7.Chimeric.out.sam
-[2018-08-08 14:48:38,835] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-1x_S1.Aligned.toTranscriptome.out.bam
-[2018-08-08 14:48:41,012] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose2_S8.Aligned.sortedByCoord.out.bam
-[2018-08-08 14:48:41,277] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-1x_S1.Chimeric.out.sam
-[2018-08-08 14:48:41,613] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-1x_S2.Aligned.toTranscriptome.out.bam
-[2018-08-08 14:48:41,614] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-2x_S4.Aligned.toTranscriptome.out.bam
-[2018-08-08 14:48:41,762] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-1x_S2.Aligned.sortedByCoord.out.bam
-[2018-08-08 14:48:53,678] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Liver_S6.Chimeric.out.sam
-[2018-08-08 14:49:02,376] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose2_S8.Aligned.toTranscriptome.out.bam
-[2018-08-08 14:49:02,377] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose2_S8.Chimeric.out.sam
-[2018-08-08 14:49:02,378] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-2x_S3.Chimeric.out.sam
-[2018-08-08 14:49:02,505] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Liver_S6.Aligned.toTranscriptome.out.bam
-[2018-08-08 14:49:02,630] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Liver_S6.Aligned.sortedByCoord.out.bam
-[2018-08-08 14:49:09,616] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-1x_S2.Chimeric.out.sam
-[2018-08-08 14:50:04,968] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Liver_S6.Aligned.sortedByCoord_markdup.bai
-[2018-08-08 14:50:04,969] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Muscle_S5.Aligned.sortedByCoord_markdup.bam
-[2018-08-08 14:50:05,734] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose1_S7.Aligned.sortedByCoord_multiple_metrics.txt.insert_size_histogram.pdf
-[2018-08-08 14:50:05,735] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-2x_S3.Aligned.sortedByCoord_markdup.bai
-[2018-08-08 14:50:06,325] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose2_S8.Aligned.sortedByCoord_markdup.bam
-[2018-08-08 14:50:06,326] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose1_S7.Aligned.sortedByCoord_multiple_metrics.txt.quality_distribution.pdf
-[2018-08-08 14:50:06,327] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose2_S8.Aligned.sortedByCoord_markdup.bai
-[2018-08-08 14:50:06,919] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose2_S8.Aligned.sortedByCoord_multiple_metrics.txt.quality_by_cycle.pdf
-[2018-08-08 14:50:07,079] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-1x_S1.Aligned.sortedByCoord_multiple_metrics.txt.insert_size_histogram.pdf
-[2018-08-08 14:50:07,080] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-1x_S1.Aligned.sortedByCoord_markdup.bai
-[2018-08-08 14:50:07,589] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Liver_S6.Aligned.sortedByCoord_multiple_metrics.txt.quality_by_cycle.pdf
-[2018-08-08 14:50:08,181] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-2x_S4.Aligned.sortedByCoord_multiple_metrics.txt.base_distribution_by_cycle.pdf
-[2018-08-08 14:50:08,881] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-1x_S1.Aligned.sortedByCoord_markdup.bam
-[2018-08-08 14:50:09,039] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-1x_S1.Aligned.sortedByCoord_multiple_metrics.txt.quality_by_cycle.pdf
-[2018-08-08 14:50:09,040] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose1_S7.Aligned.sortedByCoord_markdup.bai
-[2018-08-08 14:50:09,765] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Muscle_S5.Aligned.sortedByCoord_multiple_metrics.txt.quality_distribution.pdf
-[2018-08-08 14:50:10,556] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-1x_S2.Aligned.sortedByCoord_multiple_metrics.txt.insert_size_histogram.pdf
-[2018-08-08 14:50:10,557] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Muscle_S5.Aligned.sortedByCoord_multiple_metrics.txt.quality_by_cycle.pdf
-[2018-08-08 14:50:10,558] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Liver_S6.Aligned.sortedByCoord_multiple_metrics.txt.insert_size_histogram.pdf
-[2018-08-08 14:50:10,558] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Liver_S6.Aligned.sortedByCoord_multiple_metrics.txt.quality_distribution.pdf
-[2018-08-08 14:50:10,559] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-2x_S4.Aligned.sortedByCoord_multiple_metrics.txt.quality_distribution.pdf
-[2018-08-08 14:50:10,560] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Muscle_S5.Aligned.sortedByCoord_multiple_metrics.txt.base_distribution_by_cycle.pdf
-[2018-08-08 14:50:10,561] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Muscle_S5.Aligned.sortedByCoord_markdup.bai
-[2018-08-08 14:50:10,562] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Muscle_S5.Aligned.sortedByCoord_multiple_metrics.txt.insert_size_histogram.pdf
-[2018-08-08 14:50:10,972] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose1_S7.Aligned.sortedByCoord_multiple_metrics.txt.quality_by_cycle.pdf
-[2018-08-08 14:50:10,972] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose2_S8.Aligned.sortedByCoord_multiple_metrics.txt.insert_size_histogram.pdf
-[2018-08-08 14:50:11,136] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-2x_S4.Aligned.sortedByCoord_multiple_metrics.txt.insert_size_histogram.pdf
-[2018-08-08 14:50:11,310] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose2_S8.Aligned.sortedByCoord_multiple_metrics.txt.quality_distribution.pdf
-[2018-08-08 14:50:11,311] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-1x_S2.Aligned.sortedByCoord_markdup.bai
-[2018-08-08 14:50:11,474] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-2x_S4.Aligned.sortedByCoord_markdup.bai
-[2018-08-08 14:50:11,780] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose2_S8.Aligned.sortedByCoord_multiple_metrics.txt.base_distribution_by_cycle.pdf
-[2018-08-08 14:50:12,071] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-1x_S2.Aligned.sortedByCoord_markdup.bam
-[2018-08-08 14:50:12,072] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose1_S7.Aligned.sortedByCoord_markdup.bam
-[2018-08-08 14:50:12,389] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose1_S7.Aligned.sortedByCoord_multiple_metrics.txt.base_distribution_by_cycle.pdf
-[2018-08-08 14:50:12,389] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-1x_S2.Aligned.sortedByCoord_multiple_metrics.txt.quality_by_cycle.pdf
-[2018-08-08 14:50:12,390] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-2x_S3.Aligned.sortedByCoord_multiple_metrics.txt.base_distribution_by_cycle.pdf
-[2018-08-08 14:50:12,391] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-1x_S2.Aligned.sortedByCoord_multiple_metrics.txt.quality_distribution.pdf
-[2018-08-08 14:50:12,392] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-2x_S3.Aligned.sortedByCoord_multiple_metrics.txt.insert_size_histogram.pdf
-[2018-08-08 14:50:12,709] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-2x_S3.Aligned.sortedByCoord_multiple_metrics.txt.quality_by_cycle.pdf
-[2018-08-08 14:50:12,710] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Liver_S6.Aligned.sortedByCoord_multiple_metrics.txt.base_distribution_by_cycle.pdf
-[2018-08-08 14:50:12,876] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-1x_S1.Aligned.sortedByCoord_multiple_metrics.txt.quality_distribution.pdf
-[2018-08-08 14:50:12,876] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-1x_S2.Aligned.sortedByCoord_multiple_metrics.txt.base_distribution_by_cycle.pdf
-[2018-08-08 14:50:13,051] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-2x_S4.Aligned.sortedByCoord_multiple_metrics.txt.quality_by_cycle.pdf
-[2018-08-08 14:50:13,282] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-2x_S4.Aligned.sortedByCoord_markdup.bam
-[2018-08-08 14:50:13,449] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Liver_S6.Aligned.sortedByCoord_markdup.bam
-[2018-08-08 14:50:14,209] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-2x_S3.Aligned.sortedByCoord_markdup.bam
-[2018-08-08 14:50:14,369] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-1x_S1.Aligned.sortedByCoord_multiple_metrics.txt.base_distribution_by_cycle.pdf
-[2018-08-08 14:50:14,521] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-2x_S3.Aligned.sortedByCoord_multiple_metrics.txt.quality_distribution.pdf
-[2018-08-08 14:50:19,482] multiqc                                            [DEBUG  ]  No samples found: custom_content
-[2018-08-08 14:50:19,531] multiqc                                            [DEBUG  ]  No samples found: conpair
-[2018-08-08 14:50:19,600] multiqc                                            [DEBUG  ]  No samples found: peddy
-[2018-08-08 14:50:19,667] multiqc                                            [DEBUG  ]  No samples found: methylQA
-[2018-08-08 14:50:19,768] multiqc                                            [DEBUG  ]  No samples found: qualimap
-[2018-08-08 14:50:19,816] multiqc                                            [DEBUG  ]  No samples found: preseq
-[2018-08-08 14:50:19,886] multiqc                                            [DEBUG  ]  No samples found: quast
-[2018-08-08 14:50:19,971] multiqc                                            [DEBUG  ]  No samples found: qorts
-[2018-08-08 14:50:20,040] multiqc                                            [DEBUG  ]  No samples found: rna_seqc
-[2018-08-08 14:50:20,144] multiqc.modules.rsem.rsem                          [INFO   ]  Found 8 reports
-[2018-08-08 14:50:20,397] multiqc                                            [DEBUG  ]  No samples found: rseqc
-[2018-08-08 14:50:20,463] multiqc                                            [DEBUG  ]  No samples found: busco
-[2018-08-08 14:50:20,522] multiqc                                            [DEBUG  ]  No samples found: goleft_indexcov
-[2018-08-08 14:50:20,582] multiqc                                            [DEBUG  ]  No samples found: disambiguate
-[2018-08-08 14:50:20,667] multiqc                                            [DEBUG  ]  No samples found: supernova
-[2018-08-08 14:50:20,776] multiqc                                            [DEBUG  ]  No samples found: deeptools
-[2018-08-08 14:50:20,821] multiqc                                            [DEBUG  ]  No samples found: sargasso
-[2018-08-08 14:50:20,870] multiqc                                            [DEBUG  ]  No samples found: verifybamid
-[2018-08-08 14:50:20,991] multiqc                                            [DEBUG  ]  No samples found: homer
-[2018-08-08 14:50:21,067] multiqc                                            [DEBUG  ]  No samples found: macs2
-[2018-08-08 14:50:21,126] multiqc                                            [DEBUG  ]  No samples found: theta2
-[2018-08-08 14:50:21,179] multiqc                                            [DEBUG  ]  No samples found: snpeff
-[2018-08-08 14:50:21,463] multiqc                                            [DEBUG  ]  No samples found: gatk
-[2018-08-08 14:50:21,541] multiqc                                            [DEBUG  ]  No samples found: htseq
-[2018-08-08 14:50:21,636] multiqc                                            [DEBUG  ]  No samples found: bcftools
-[2018-08-08 14:50:21,716] multiqc                                            [DEBUG  ]  No samples found: featureCounts
-[2018-08-08 14:50:21,793] multiqc                                            [DEBUG  ]  No samples found: dedup
-[2018-08-08 14:50:22,240] multiqc.modules.picard.picard                      [INFO   ]  Found 8 AlignmentSummaryMetrics reports
-[2018-08-08 14:50:22,316] multiqc.modules.picard.picard                      [INFO   ]  Found 16 BaseDistributionByCycleMetrics reports
-[2018-08-08 14:50:22,689] multiqc.modules.picard.picard                      [INFO   ]  Found 8 InsertSizeMetrics reports
-[2018-08-08 14:50:22,710] multiqc.modules.picard.picard                      [INFO   ]  Found 8 MarkDuplicates reports
-[2018-08-08 14:50:22,763] multiqc                                            [DEBUG  ]  No samples found: prokka
-[2018-08-08 14:50:22,814] multiqc                                            [DEBUG  ]  No samples found: samblaster
-[2018-08-08 14:50:22,938] multiqc                                            [DEBUG  ]  No samples found: samtools
-[2018-08-08 14:50:22,997] multiqc                                            [DEBUG  ]  No samples found: bamtools
-[2018-08-08 14:50:23,044] multiqc                                            [DEBUG  ]  No samples found: jellyfish
-[2018-08-08 14:50:23,184] multiqc                                            [DEBUG  ]  No samples found: vcftools
-[2018-08-08 14:50:23,443] multiqc                                            [DEBUG  ]  No samples found: bbmap
-[2018-08-08 14:50:23,493] multiqc                                            [DEBUG  ]  No samples found: bismark
-[2018-08-08 14:50:23,551] multiqc                                            [DEBUG  ]  No samples found: hicexplorer
-[2018-08-08 14:50:23,602] multiqc                                            [DEBUG  ]  No samples found: hicup
-[2018-08-08 14:50:23,663] multiqc                                            [DEBUG  ]  No samples found: salmon
-[2018-08-08 14:50:23,738] multiqc                                            [DEBUG  ]  No samples found: kallisto
-[2018-08-08 14:50:23,814] multiqc                                            [DEBUG  ]  No samples found: slamdunk
-[2018-08-08 14:50:23,919] multiqc.modules.star.star                          [INFO   ]  Found 8 reports
-[2018-08-08 14:50:23,970] multiqc                                            [DEBUG  ]  No samples found: hisat2
-[2018-08-08 14:50:24,027] multiqc                                            [DEBUG  ]  No samples found: tophat
-[2018-08-08 14:50:24,079] multiqc                                            [DEBUG  ]  No samples found: bowtie2
-[2018-08-08 14:50:24,187] multiqc                                            [DEBUG  ]  No samples found: bowtie1
-[2018-08-08 14:50:24,236] multiqc                                            [DEBUG  ]  No samples found: leehom
-[2018-08-08 14:50:24,288] multiqc                                            [DEBUG  ]  No samples found: adapterRemoval
-[2018-08-08 14:50:24,347] multiqc                                            [DEBUG  ]  No samples found: clipandmerge
-[2018-08-08 14:50:24,414] multiqc                                            [DEBUG  ]  No samples found: cutadapt
-[2018-08-08 14:50:24,466] multiqc                                            [DEBUG  ]  No samples found: flexbar
-[2018-08-08 14:50:24,529] multiqc                                            [DEBUG  ]  No samples found: trimmomatic
-[2018-08-08 14:50:24,579] multiqc                                            [DEBUG  ]  No samples found: skewer
-[2018-08-08 14:50:24,631] multiqc                                            [DEBUG  ]  No samples found: sortmerna
-[2018-08-08 14:50:24,673] multiqc                                            [DEBUG  ]  No samples found: biobloomtools
-[2018-08-08 14:50:24,759] multiqc                                            [DEBUG  ]  No samples found: fastq_screen
-[2018-08-08 14:50:24,811] multiqc                                            [DEBUG  ]  No samples found: afterqc
-[2018-08-08 14:50:30,285] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 18 reports
-[2018-08-08 14:50:32,132] multiqc                                            [DEBUG  ]  No samples found: clusterflow
-[2018-08-08 14:50:32,185] multiqc                                            [DEBUG  ]  No samples found: bcl2fastq
-[2018-08-08 14:50:32,248] multiqc                                            [DEBUG  ]  No samples found: interop
-[2018-08-08 14:50:32,332] multiqc                                            [INFO   ]  Compressing plot data
-[2018-08-08 14:50:36,821] multiqc                                            [INFO   ]  Report      : multiqc_report.html
-[2018-08-08 14:50:36,821] multiqc                                            [INFO   ]  Data        : multiqc_data
-[2018-08-08 14:50:36,824] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpKi0iMc/multiqc_data/multiqc_data.json' to '/home/xli6/projects/motrpac/multiqc/multiqc_data'
-[2018-08-08 14:50:36,843] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpKi0iMc/multiqc_data/multiqc_sources.txt' to '/home/xli6/projects/motrpac/multiqc/multiqc_data'
-[2018-08-08 14:50:36,850] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpKi0iMc/multiqc_data/multiqc_general_stats.txt' to '/home/xli6/projects/motrpac/multiqc/multiqc_data'
-[2018-08-08 14:50:36,857] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpKi0iMc/multiqc_data/multiqc_fastqc.txt' to '/home/xli6/projects/motrpac/multiqc/multiqc_data'
-[2018-08-08 14:50:36,864] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpKi0iMc/multiqc_data/multiqc_star.txt' to '/home/xli6/projects/motrpac/multiqc/multiqc_data'
-[2018-08-08 14:50:36,874] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpKi0iMc/multiqc_data/multiqc_picard_dups.txt' to '/home/xli6/projects/motrpac/multiqc/multiqc_data'
-[2018-08-08 14:50:36,881] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpKi0iMc/multiqc_data/multiqc_picard_insertSize.txt' to '/home/xli6/projects/motrpac/multiqc/multiqc_data'
-[2018-08-08 14:50:36,887] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpKi0iMc/multiqc_data/multiqc_picard_baseContent.txt' to '/home/xli6/projects/motrpac/multiqc/multiqc_data'
-[2018-08-08 14:50:36,894] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpKi0iMc/multiqc_data/multiqc_picard_AlignmentSummaryMetrics.txt' to '/home/xli6/projects/motrpac/multiqc/multiqc_data'
-[2018-08-08 14:50:36,900] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpKi0iMc/multiqc_data/multiqc_rsem.txt' to '/home/xli6/projects/motrpac/multiqc/multiqc_data'
-[2018-08-08 14:50:37,575] multiqc                                            [INFO   ]  MultiQC complete
+[2018-08-08 16:53:54,041] multiqc                                            [DEBUG  ]  No MultiQC config found: /scg/apps/legacy/multiqc/1.5/lib/python2.7/site-packages/multiqc-1.5-py2.7.egg/multiqc_config.yaml
+[2018-08-08 16:53:54,042] multiqc                                            [DEBUG  ]  No MultiQC config found: /home/xli6/.multiqc_config.yaml
+[2018-08-08 16:53:54,042] multiqc                                            [DEBUG  ]  No MultiQC config found: multiqc_config.yaml
+[2018-08-08 16:53:54,043] multiqc                                            [DEBUG  ]  Command used: /srv/gsfs0/software/multiqc/1.5/bin/multiqc ../fastqc/output ../star/output_bam ../rsem/rsem_output ../picard/picard_output
+[2018-08-08 16:53:55,177] multiqc                                            [WARNING]  MultiQC Version v1.6 now available!
+[2018-08-08 16:53:55,178] multiqc                                            [INFO   ]  This is MultiQC v1.5
+[2018-08-08 16:53:55,178] multiqc                                            [DEBUG  ]  Command     : /srv/gsfs0/software/multiqc/1.5/bin/multiqc ../fastqc/output ../star/output_bam ../rsem/rsem_output ../picard/picard_output
+[2018-08-08 16:53:55,178] multiqc                                            [DEBUG  ]  Working dir : /home/xli6/projects/motrpac/multiqc
+[2018-08-08 16:53:55,178] multiqc                                            [INFO   ]  Template    : default
+[2018-08-08 16:53:55,178] multiqc                                            [INFO   ]  Searching '../fastqc/output'
+[2018-08-08 16:53:55,179] multiqc                                            [INFO   ]  Searching '../star/output_bam'
+[2018-08-08 16:53:55,179] multiqc                                            [INFO   ]  Searching '../rsem/rsem_output'
+[2018-08-08 16:53:55,179] multiqc                                            [INFO   ]  Searching '../picard/picard_output'
+[2018-08-08 16:53:55,180] multiqc                                            [DEBUG  ]  Analysing modules: custom_content, conpair, peddy, methylQA, qualimap, preseq, quast, qorts, rna_seqc, rsem, rseqc, busco, goleft_indexcov, disambiguate, supernova, deeptools, sargasso, verifybamid, homer, macs2, theta2, snpeff, gatk, htseq, bcftools, featureCounts, dedup, picard, prokka, samblaster, samtools, bamtools, jellyfish, vcftools, bbmap, bismark, hicexplorer, hicup, salmon, kallisto, slamdunk, star, hisat2, tophat, bowtie2, bowtie1, leehom, adapterRemoval, clipandmerge, cutadapt, flexbar, trimmomatic, skewer, sortmerna, biobloomtools, fastq_screen, afterqc, fastqc, clusterflow, bcl2fastq, interop
+[2018-08-08 16:53:55,180] multiqc                                            [DEBUG  ]  Using temporary directory for creating report: /tmp/tmpDy02iO
+[2018-08-08 16:53:55,492] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-1x_S1_merge_R2_fastqc.html
+[2018-08-08 16:53:55,516] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-1x_S2_merge_R2_fastqc.html
+[2018-08-08 16:53:55,750] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose1_S7_merge_R2_fastqc.html
+[2018-08-08 16:53:55,751] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-2x_S3_merge_R2_fastqc.html
+[2018-08-08 16:53:55,752] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose2_S8_merge_R2_fastqc.html
+[2018-08-08 16:53:55,752] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-2x_S4_merge_R2_fastqc.html
+[2018-08-08 16:53:55,753] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-2x_S3_merge_R1_fastqc.html
+[2018-08-08 16:53:56,092] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-1x_S1_merge_R1_fastqc.html
+[2018-08-08 16:53:56,436] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Undetermined_S0_merge_R1_fastqc.html
+[2018-08-08 16:53:56,437] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-2x_S4_merge_R1_fastqc.html
+[2018-08-08 16:53:56,787] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Liver_S6_merge_R1_fastqc.html
+[2018-08-08 16:53:57,277] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose2_S8_merge_R1_fastqc.html
+[2018-08-08 16:53:57,390] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Liver_S6_merge_R2_fastqc.html
+[2018-08-08 16:53:57,510] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-1x_S2_merge_R1_fastqc.html
+[2018-08-08 16:53:57,511] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Muscle_S5_merge_R1_fastqc.html
+[2018-08-08 16:53:57,513] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Muscle_S5_merge_R2_fastqc.html
+[2018-08-08 16:53:57,513] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Undetermined_S0_merge_R2_fastqc.html
+[2018-08-08 16:53:57,514] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose1_S7_merge_R1_fastqc.html
+[2018-08-08 16:53:57,717] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-2x_S3.Aligned.toTranscriptome.out.bam
+[2018-08-08 16:53:58,315] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose1_S7.Aligned.sortedByCoord.out.bam
+[2018-08-08 16:54:24,434] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-2x_S3.Aligned.sortedByCoord.out.bam
+[2018-08-08 16:54:24,434] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-2x_S4.Aligned.sortedByCoord.out.bam
+[2018-08-08 16:54:24,435] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose1_S7.Aligned.toTranscriptome.out.bam
+[2018-08-08 16:54:26,913] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-2x_S4.Chimeric.out.sam
+[2018-08-08 16:54:27,102] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Muscle_S5.Aligned.sortedByCoord.out.bam
+[2018-08-08 16:54:29,602] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-1x_S1.Aligned.sortedByCoord.out.bam
+[2018-08-08 16:54:46,997] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Muscle_S5.Aligned.toTranscriptome.out.bam
+[2018-08-08 16:54:46,997] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Muscle_S5.Chimeric.out.sam
+[2018-08-08 16:54:46,998] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose1_S7.Chimeric.out.sam
+[2018-08-08 16:54:47,226] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-1x_S1.Aligned.toTranscriptome.out.bam
+[2018-08-08 16:54:49,251] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose2_S8.Aligned.sortedByCoord.out.bam
+[2018-08-08 16:54:49,500] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-1x_S1.Chimeric.out.sam
+[2018-08-08 16:54:49,796] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-1x_S2.Aligned.toTranscriptome.out.bam
+[2018-08-08 16:54:49,796] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-2x_S4.Aligned.toTranscriptome.out.bam
+[2018-08-08 16:54:49,914] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-1x_S2.Aligned.sortedByCoord.out.bam
+[2018-08-08 16:55:01,803] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Liver_S6.Chimeric.out.sam
+[2018-08-08 16:55:10,646] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose2_S8.Aligned.toTranscriptome.out.bam
+[2018-08-08 16:55:10,646] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose2_S8.Chimeric.out.sam
+[2018-08-08 16:55:10,647] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-2x_S3.Chimeric.out.sam
+[2018-08-08 16:55:10,766] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Liver_S6.Aligned.toTranscriptome.out.bam
+[2018-08-08 16:55:10,876] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Liver_S6.Aligned.sortedByCoord.out.bam
+[2018-08-08 16:55:17,498] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-1x_S2.Chimeric.out.sam
+[2018-08-08 16:56:11,587] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-1x_S2.Aligned.sortedByCoord_multiple_metrics.insert_size_histogram.pdf
+[2018-08-08 16:56:11,708] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose1_S7.Aligned.sortedByCoord_multiple_metrics.base_distribution_by_cycle.pdf
+[2018-08-08 16:56:11,709] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-1x_S1.Aligned.sortedByCoord_multiple_metrics.gc_bias.pdf
+[2018-08-08 16:56:12,013] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Liver_S6.Aligned.sortedByCoord_markdup.bai
+[2018-08-08 16:56:12,014] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose1_S7.Aligned.sortedByCoord_multiple_metrics.gc_bias.pdf
+[2018-08-08 16:56:12,881] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Muscle_S5.Aligned.sortedByCoord_markdup.bam
+[2018-08-08 16:56:13,006] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Muscle_S5.Aligned.sortedByCoord_multiple_metrics.base_distribution_by_cycle.pdf
+[2018-08-08 16:56:13,620] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-1x_S1.Aligned.sortedByCoord_multiple_metrics.insert_size_histogram.pdf
+[2018-08-08 16:56:13,621] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Muscle_S5.Aligned.sortedByCoord_multiple_metrics.gc_bias.pdf
+[2018-08-08 16:56:13,738] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-1x_S2.Aligned.sortedByCoord_multiple_metrics.quality_by_cycle.pdf
+[2018-08-08 16:56:15,096] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Muscle_S5.Aligned.sortedByCoord_multiple_metrics.quality_by_cycle.pdf
+[2018-08-08 16:56:15,517] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-2x_S4.Aligned.sortedByCoord_multiple_metrics.insert_size_histogram.pdf
+[2018-08-08 16:56:15,907] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-2x_S3.Aligned.sortedByCoord_markdup.bai
+[2018-08-08 16:56:16,166] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose2_S8.Aligned.sortedByCoord_markdup.bam
+[2018-08-08 16:56:16,167] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Liver_S6.Aligned.sortedByCoord_multiple_metrics.quality_by_cycle.pdf
+[2018-08-08 16:56:16,319] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose2_S8.Aligned.sortedByCoord_markdup.bai
+[2018-08-08 16:56:16,858] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-2x_S4.Aligned.sortedByCoord_multiple_metrics.gc_bias.pdf
+[2018-08-08 16:56:17,429] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-1x_S1.Aligned.sortedByCoord_markdup.bai
+[2018-08-08 16:56:18,041] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-2x_S3.Aligned.sortedByCoord_multiple_metrics.quality_by_cycle.pdf
+[2018-08-08 16:56:19,695] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-2x_S3.Aligned.sortedByCoord_multiple_metrics.gc_bias.pdf
+[2018-08-08 16:56:20,143] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-1x_S1.Aligned.sortedByCoord_multiple_metrics.quality_by_cycle.pdf
+[2018-08-08 16:56:20,265] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-1x_S1.Aligned.sortedByCoord_markdup.bam
+[2018-08-08 16:56:20,415] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-1x_S2.Aligned.sortedByCoord_multiple_metrics.gc_bias.pdf
+[2018-08-08 16:56:20,416] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose1_S7.Aligned.sortedByCoord_markdup.bai
+[2018-08-08 16:56:20,542] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Liver_S6.Aligned.sortedByCoord_multiple_metrics.base_distribution_by_cycle.pdf
+[2018-08-08 16:56:20,543] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-2x_S4.Aligned.sortedByCoord_multiple_metrics.quality_by_cycle.pdf
+[2018-08-08 16:56:20,677] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Muscle_S5.Aligned.sortedByCoord_multiple_metrics.quality_distribution.pdf
+[2018-08-08 16:56:20,677] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-1x_S1.Aligned.sortedByCoord_multiple_metrics.quality_distribution.pdf
+[2018-08-08 16:56:21,191] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-2x_S4.Aligned.sortedByCoord_multiple_metrics.quality_distribution.pdf
+[2018-08-08 16:56:21,595] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Muscle_S5.Aligned.sortedByCoord_markdup.bai
+[2018-08-08 16:56:22,313] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Muscle_S5.Aligned.sortedByCoord_multiple_metrics.insert_size_histogram.pdf
+[2018-08-08 16:56:22,314] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose1_S7.Aligned.sortedByCoord_multiple_metrics.quality_by_cycle.pdf
+[2018-08-08 16:56:22,318] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Liver_S6.Aligned.sortedByCoord_multiple_metrics.gc_bias.pdf
+[2018-08-08 16:56:22,992] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Liver_S6.Aligned.sortedByCoord_multiple_metrics.quality_distribution.pdf
+[2018-08-08 16:56:22,993] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-1x_S2.Aligned.sortedByCoord_markdup.bai
+[2018-08-08 16:56:23,124] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose2_S8.Aligned.sortedByCoord_multiple_metrics.gc_bias.pdf
+[2018-08-08 16:56:23,827] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-2x_S4.Aligned.sortedByCoord_markdup.bai
+[2018-08-08 16:56:24,145] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-2x_S4.Aligned.sortedByCoord_multiple_metrics.base_distribution_by_cycle.pdf
+[2018-08-08 16:56:24,282] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-1x_S2.Aligned.sortedByCoord_markdup.bam
+[2018-08-08 16:56:24,283] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-2x_S3.Aligned.sortedByCoord_multiple_metrics.quality_distribution.pdf
+[2018-08-08 16:56:24,284] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose1_S7.Aligned.sortedByCoord_markdup.bam
+[2018-08-08 16:56:24,285] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose2_S8.Aligned.sortedByCoord_multiple_metrics.base_distribution_by_cycle.pdf
+[2018-08-08 16:56:24,729] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-1x_S1.Aligned.sortedByCoord_multiple_metrics.base_distribution_by_cycle.pdf
+[2018-08-08 16:56:24,730] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose1_S7.Aligned.sortedByCoord_multiple_metrics.insert_size_histogram.pdf
+[2018-08-08 16:56:24,990] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose2_S8.Aligned.sortedByCoord_multiple_metrics.quality_by_cycle.pdf
+[2018-08-08 16:56:25,783] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-1x_S2.Aligned.sortedByCoord_multiple_metrics.base_distribution_by_cycle.pdf
+[2018-08-08 16:56:27,184] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-2x_S3.Aligned.sortedByCoord_multiple_metrics.insert_size_histogram.pdf
+[2018-08-08 16:56:27,185] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-1x_S2.Aligned.sortedByCoord_multiple_metrics.quality_distribution.pdf
+[2018-08-08 16:56:27,480] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX3-Thaw-2x_S4.Aligned.sortedByCoord_markdup.bam
+[2018-08-08 16:56:28,108] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Liver_S6.Aligned.sortedByCoord_markdup.bam
+[2018-08-08 16:56:28,626] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose2_S8.Aligned.sortedByCoord_multiple_metrics.quality_distribution.pdf
+[2018-08-08 16:56:29,203] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose1_S7.Aligned.sortedByCoord_multiple_metrics.quality_distribution.pdf
+[2018-08-08 16:56:30,002] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-White-Adipose2_S8.Aligned.sortedByCoord_multiple_metrics.insert_size_histogram.pdf
+[2018-08-08 16:56:30,003] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-2x_S3.Aligned.sortedByCoord_markdup.bam
+[2018-08-08 16:56:30,446] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: PAX2-Thaw-2x_S3.Aligned.sortedByCoord_multiple_metrics.base_distribution_by_cycle.pdf
+[2018-08-08 16:56:30,639] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: Rat-Liver_S6.Aligned.sortedByCoord_multiple_metrics.insert_size_histogram.pdf
+[2018-08-08 16:56:32,664] multiqc                                            [DEBUG  ]  No samples found: custom_content
+[2018-08-08 16:56:32,683] multiqc                                            [DEBUG  ]  No samples found: conpair
+[2018-08-08 16:56:32,704] multiqc                                            [DEBUG  ]  No samples found: peddy
+[2018-08-08 16:56:32,722] multiqc                                            [DEBUG  ]  No samples found: methylQA
+[2018-08-08 16:56:32,764] multiqc                                            [DEBUG  ]  No samples found: qualimap
+[2018-08-08 16:56:32,785] multiqc                                            [DEBUG  ]  No samples found: preseq
+[2018-08-08 16:56:32,805] multiqc                                            [DEBUG  ]  No samples found: quast
+[2018-08-08 16:56:32,824] multiqc                                            [DEBUG  ]  No samples found: qorts
+[2018-08-08 16:56:32,851] multiqc                                            [DEBUG  ]  No samples found: rna_seqc
+[2018-08-08 16:56:32,898] multiqc.modules.rsem.rsem                          [INFO   ]  Found 8 reports
+[2018-08-08 16:56:33,024] multiqc                                            [DEBUG  ]  No samples found: rseqc
+[2018-08-08 16:56:33,044] multiqc                                            [DEBUG  ]  No samples found: busco
+[2018-08-08 16:56:33,067] multiqc                                            [DEBUG  ]  No samples found: goleft_indexcov
+[2018-08-08 16:56:33,087] multiqc                                            [DEBUG  ]  No samples found: disambiguate
+[2018-08-08 16:56:33,109] multiqc                                            [DEBUG  ]  No samples found: supernova
+[2018-08-08 16:56:33,166] multiqc                                            [DEBUG  ]  No samples found: deeptools
+[2018-08-08 16:56:33,187] multiqc                                            [DEBUG  ]  No samples found: sargasso
+[2018-08-08 16:56:33,210] multiqc                                            [DEBUG  ]  No samples found: verifybamid
+[2018-08-08 16:56:33,254] multiqc                                            [DEBUG  ]  No samples found: homer
+[2018-08-08 16:56:33,276] multiqc                                            [DEBUG  ]  No samples found: macs2
+[2018-08-08 16:56:33,298] multiqc                                            [DEBUG  ]  No samples found: theta2
+[2018-08-08 16:56:33,319] multiqc                                            [DEBUG  ]  No samples found: snpeff
+[2018-08-08 16:56:33,370] multiqc                                            [DEBUG  ]  No samples found: gatk
+[2018-08-08 16:56:33,392] multiqc                                            [DEBUG  ]  No samples found: htseq
+[2018-08-08 16:56:33,420] multiqc                                            [DEBUG  ]  No samples found: bcftools
+[2018-08-08 16:56:33,441] multiqc                                            [DEBUG  ]  No samples found: featureCounts
+[2018-08-08 16:56:33,466] multiqc                                            [DEBUG  ]  No samples found: dedup
+[2018-08-08 16:56:33,911] multiqc.modules.picard.picard                      [INFO   ]  Found 8 AlignmentSummaryMetrics reports
+[2018-08-08 16:56:33,996] multiqc.modules.picard.picard                      [INFO   ]  Found 16 BaseDistributionByCycleMetrics reports
+[2018-08-08 16:56:34,204] multiqc.modules.picard.GcBiasMetrics               [DEBUG  ]  Duplicate sample name found in Rat-Muscle_S5.Aligned.sortedByCoord_multiple_metrics.gc_bias.summary_metrics! Overwriting: Rat-Muscle_S5
+[2018-08-08 16:56:34,212] multiqc.modules.picard.GcBiasMetrics               [DEBUG  ]  Duplicate sample name found in PAX2-Thaw-1x_S1.Aligned.sortedByCoord_multiple_metrics.gc_bias.summary_metrics! Overwriting: PAX2-Thaw-1x_S1
+[2018-08-08 16:56:34,295] multiqc.modules.picard.GcBiasMetrics               [DEBUG  ]  Duplicate sample name found in PAX3-Thaw-1x_S2.Aligned.sortedByCoord_multiple_metrics.gc_bias.summary_metrics! Overwriting: PAX3-Thaw-1x_S2
+[2018-08-08 16:56:34,329] multiqc.modules.picard.GcBiasMetrics               [DEBUG  ]  Duplicate sample name found in Rat-White-Adipose2_S8.Aligned.sortedByCoord_multiple_metrics.gc_bias.summary_metrics! Overwriting: Rat-White-Adipose2_S8
+[2018-08-08 16:56:34,400] multiqc.modules.picard.picard                      [INFO   ]  Found 8 GcBiasMetrics reports
+[2018-08-08 16:56:34,830] multiqc.modules.picard.picard                      [INFO   ]  Found 8 InsertSizeMetrics reports
+[2018-08-08 16:56:34,850] multiqc.modules.picard.picard                      [INFO   ]  Found 8 MarkDuplicates reports
+[2018-08-08 16:56:34,870] multiqc.modules.picard.RnaSeqMetrics               [DEBUG  ]  Ignoring 'Rat-White-Adipose2_S8' histogram as no data parsed
+[2018-08-08 16:56:34,872] multiqc.modules.picard.RnaSeqMetrics               [DEBUG  ]  Ignoring 'Rat-Liver_S6' histogram as no data parsed
+[2018-08-08 16:56:34,879] multiqc.modules.picard.RnaSeqMetrics               [DEBUG  ]  Ignoring 'Rat-White-Adipose1_S7' histogram as no data parsed
+[2018-08-08 16:56:34,907] multiqc.modules.picard.RnaSeqMetrics               [DEBUG  ]  Ignoring 'Rat-Muscle_S5' histogram as no data parsed
+[2018-08-08 16:56:34,916] multiqc.modules.picard.picard                      [INFO   ]  Found 8 RnaSeqMetrics reports
+[2018-08-08 16:56:34,931] multiqc                                            [DEBUG  ]  No samples found: prokka
+[2018-08-08 16:56:34,948] multiqc                                            [DEBUG  ]  No samples found: samblaster
+[2018-08-08 16:56:34,998] multiqc                                            [DEBUG  ]  No samples found: samtools
+[2018-08-08 16:56:35,019] multiqc                                            [DEBUG  ]  No samples found: bamtools
+[2018-08-08 16:56:35,037] multiqc                                            [DEBUG  ]  No samples found: jellyfish
+[2018-08-08 16:56:35,073] multiqc                                            [DEBUG  ]  No samples found: vcftools
+[2018-08-08 16:56:35,156] multiqc                                            [DEBUG  ]  No samples found: bbmap
+[2018-08-08 16:56:35,176] multiqc                                            [DEBUG  ]  No samples found: bismark
+[2018-08-08 16:56:35,195] multiqc                                            [DEBUG  ]  No samples found: hicexplorer
+[2018-08-08 16:56:35,215] multiqc                                            [DEBUG  ]  No samples found: hicup
+[2018-08-08 16:56:35,235] multiqc                                            [DEBUG  ]  No samples found: salmon
+[2018-08-08 16:56:35,253] multiqc                                            [DEBUG  ]  No samples found: kallisto
+[2018-08-08 16:56:35,276] multiqc                                            [DEBUG  ]  No samples found: slamdunk
+[2018-08-08 16:56:35,329] multiqc.modules.star.star                          [INFO   ]  Found 8 reports
+[2018-08-08 16:56:35,347] multiqc                                            [DEBUG  ]  No samples found: hisat2
+[2018-08-08 16:56:35,374] multiqc                                            [DEBUG  ]  No samples found: tophat
+[2018-08-08 16:56:35,394] multiqc                                            [DEBUG  ]  No samples found: bowtie2
+[2018-08-08 16:56:35,415] multiqc                                            [DEBUG  ]  No samples found: bowtie1
+[2018-08-08 16:56:35,434] multiqc                                            [DEBUG  ]  No samples found: leehom
+[2018-08-08 16:56:35,452] multiqc                                            [DEBUG  ]  No samples found: adapterRemoval
+[2018-08-08 16:56:35,475] multiqc                                            [DEBUG  ]  No samples found: clipandmerge
+[2018-08-08 16:56:35,493] multiqc                                            [DEBUG  ]  No samples found: cutadapt
+[2018-08-08 16:56:35,513] multiqc                                            [DEBUG  ]  No samples found: flexbar
+[2018-08-08 16:56:35,532] multiqc                                            [DEBUG  ]  No samples found: trimmomatic
+[2018-08-08 16:56:35,552] multiqc                                            [DEBUG  ]  No samples found: skewer
+[2018-08-08 16:56:35,575] multiqc                                            [DEBUG  ]  No samples found: sortmerna
+[2018-08-08 16:56:35,594] multiqc                                            [DEBUG  ]  No samples found: biobloomtools
+[2018-08-08 16:56:35,613] multiqc                                            [DEBUG  ]  No samples found: fastq_screen
+[2018-08-08 16:56:35,637] multiqc                                            [DEBUG  ]  No samples found: afterqc
+[2018-08-08 16:56:40,062] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 18 reports
+[2018-08-08 16:56:41,776] multiqc                                            [DEBUG  ]  No samples found: clusterflow
+[2018-08-08 16:56:41,816] multiqc                                            [DEBUG  ]  No samples found: bcl2fastq
+[2018-08-08 16:56:41,858] multiqc                                            [DEBUG  ]  No samples found: interop
+[2018-08-08 16:56:41,917] multiqc                                            [INFO   ]  Compressing plot data
+[2018-08-08 16:56:46,579] multiqc                                            [WARNING]  Previous MultiQC output found! Adjusting filenames..
+[2018-08-08 16:56:46,579] multiqc                                            [WARNING]  Use -f or --force to overwrite existing reports instead
+[2018-08-08 16:56:46,580] multiqc                                            [INFO   ]  Report      : multiqc_report_1.html
+[2018-08-08 16:56:46,580] multiqc                                            [INFO   ]  Data        : multiqc_data_1
+[2018-08-08 16:56:46,588] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpDy02iO/multiqc_data/multiqc_data.json' to '/home/xli6/projects/motrpac/multiqc/multiqc_data_1'
+[2018-08-08 16:56:46,611] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpDy02iO/multiqc_data/multiqc_sources.txt' to '/home/xli6/projects/motrpac/multiqc/multiqc_data_1'
+[2018-08-08 16:56:46,616] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpDy02iO/multiqc_data/multiqc_general_stats.txt' to '/home/xli6/projects/motrpac/multiqc/multiqc_data_1'
+[2018-08-08 16:56:46,624] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpDy02iO/multiqc_data/multiqc_fastqc.txt' to '/home/xli6/projects/motrpac/multiqc/multiqc_data_1'
+[2018-08-08 16:56:46,630] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpDy02iO/multiqc_data/multiqc_star.txt' to '/home/xli6/projects/motrpac/multiqc/multiqc_data_1'
+[2018-08-08 16:56:46,638] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpDy02iO/multiqc_data/multiqc_picard_RnaSeqMetrics.txt' to '/home/xli6/projects/motrpac/multiqc/multiqc_data_1'
+[2018-08-08 16:56:46,647] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpDy02iO/multiqc_data/multiqc_picard_dups.txt' to '/home/xli6/projects/motrpac/multiqc/multiqc_data_1'
+[2018-08-08 16:56:46,653] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpDy02iO/multiqc_data/multiqc_picard_insertSize.txt' to '/home/xli6/projects/motrpac/multiqc/multiqc_data_1'
+[2018-08-08 16:56:46,659] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpDy02iO/multiqc_data/multiqc_picard_gcbias.txt' to '/home/xli6/projects/motrpac/multiqc/multiqc_data_1'
+[2018-08-08 16:56:46,683] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpDy02iO/multiqc_data/multiqc_picard_baseContent.txt' to '/home/xli6/projects/motrpac/multiqc/multiqc_data_1'
+[2018-08-08 16:56:46,690] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpDy02iO/multiqc_data/multiqc_picard_AlignmentSummaryMetrics.txt' to '/home/xli6/projects/motrpac/multiqc/multiqc_data_1'
+[2018-08-08 16:56:46,696] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpDy02iO/multiqc_data/multiqc_rsem.txt' to '/home/xli6/projects/motrpac/multiqc/multiqc_data_1'
+[2018-08-08 16:56:47,202] multiqc                                            [INFO   ]  MultiQC complete
