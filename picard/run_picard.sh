@@ -7,7 +7,7 @@ picard_script=~/projects/motrpac/picard/picard_metrics_motrpac.sh
 
 rat_refgenome=~/data_scratch/reference/Rattus_norvegicus.Rnor_6.0.dna.toplevel.fa
 human_refgenome=~/data_scratch/reference/GRCh38.primary_assembly.genome.fa
-rat_refflat=~/data_scratch/reference/Rattus_norvegicus.Rnor_6.0.refFlat.txt
+rat_refflat=~/data_scratch/reference/Rattus_norvegicus.Rnor_6.0.93.gtf.refFlat.txt
 human_refflat=~/data_scratch/reference/GRCh38.refFlat.txt
 
 # RD014.Aligned.sortedByCoord.out.bam
