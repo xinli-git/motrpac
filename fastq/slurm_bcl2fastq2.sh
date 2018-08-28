@@ -4,7 +4,7 @@
 #SBATCH --account=smontgom
 
 # Set estimated job time (day-hour:minute:seconds)
-#SBATCH --time=0-96:00:00
+#SBATCH --time=0-12:00:00
 
 # Set a name for the job, visible in `squeue`
 #SBATCH --job-name="exampe_job"
